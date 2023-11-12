@@ -1,0 +1,9 @@
+{
+  "GR1": { "type": "buy_one_get_one", "buy": 1, "get": 1 },
+  "SR1": { "type": "discount_price", "threshold": 3, "discount_price": 4.5 },
+  "CF1": {
+    "type": "discount_percent",
+    "threshold": 3,
+    "discount_percent": 0.6666
+  }
+}
